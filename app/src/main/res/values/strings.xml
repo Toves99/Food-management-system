@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Food For All</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Account</string>
+    <string name="menu_slideshow">Contact Us</string>
+    <string name="tv_UserName">Nethmee Charuni</string>
+    <string name="btnfindfood">find food</string>
+    <string name="btndonate">donations</string>
+    <string name="btnlogin">login</string>
+    <string name="btnrateus">rate us</string>
+    <string name="btnvacancies">vacancies</string>
+    <string name="btnhowto">how to use</string>
+
+
+    <string name="tvMyProfile">My Profile</string>
+    <string name="Donor">Donor</string>
+    <string name="name">Nethmee Charuni</string>
+    <string name="email">charuni@gmail.com</string>
+    <string name="mobile">07418529630</string>
+    <string name="Address">No.59,Peradeniya,Kandy</string>
+    <string name="HeadingDonation">My Donations</string>
+    <string name="tvDonation">You have done 10 donations</string>
+    <string name="HeadingPosts">My Posts</string>
+    <string name="date">Posted on: 02.03.2022</string>
+    <string name="don">10</string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnEditProfile">Edit Profile</string>
+    <string name="btnDeleteProfile">Delete Account</string>
+
+    //IT20609030
+    <string name="tvDoantionForm">Donation Form</string>
+    <string name="hintDonorName">Enter Your Name</string>
+    <string name="hint_DonorLocation">Enter Your Location</string>
+    <string name="hint_FoodTitle">Enter Food Title</string>
+    <string name="tvCat">Select the Category</string>
+    <string name="hint_FoodQty">Quantity : 200 people/3kg</string>
+    <string name="hint_FoodExpdate">Expiry Date</string>
+    <string name="hint_FoodSpNote">Note : collect before 3 pm</string>
+    <string name="btn_SubmitDonation">submit</string>
+    <string name="cb_msg">I assure that food quality and hygiene has maintained</string>
+
+    <string name="hint_update_donName">Donor Name</string>
+    <string name="hint_update_donLocation">Donor Location</string>
+    <string name="hint_update_FoodTitle">Food Title</string>
+    <string name="hint_update_category">Category</string>
+    <string name="hint_update_qty">Quantity</string>
+    <string name="hint_update_expdate">Expiry Date</string>
+    <string name="hint_update_note">Special Note</string>
+    <string name="hint_update_donstatus">Status</string>
+    <string name="btn_OrderFood">Order</string>
+
+
+
+    //IT20633622
+    <string name="login">LOGIN</string>
+    <string name="etEmailHint">Enter email</string>
+    <string name="etPassword">Enter Password</string>
+    <string name="btnCreateAccount">CREATE AN ACCOUNT</string>
+    <string name="btnGmail">LOGIN WITH GMAIL</string>
+    <string name="tvForgotPassword">Forgot Password?</string>
+    <string name="btnNeeder">Needer</string>
+    <string name="btnDriver">Driver</string>
+    <string name="btnDonor">Donor</string>
+    <string name="SelectionText">Join With us as a.......</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="passwordText">Please enter your registered email address</string>
+    <string name="btnResetPassword">RESET PASSWORD</string>
+    <string name="RegForm">Personal Details</string>
+    <string name="tvfname">First Name</string>
+    <string name="tvlname">Last Name</string>
+    <string name="tvemail">Email</string>
+    <string name="tvContactNumber">Contact Number</string>
+    <string name="tvAddress">Address</string>
+    <string name="tvPassword">Password</string>
+    <string name="tvConfirmPassword">Confirm Password</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="tvCheckbox">I agree to your terms and conditions</string>
+    <string name="hintfName">Enter Name</string>
+    <string name="hintEmail">Enter email</string>
+    <string name="hintemail">abc@gmail.com</string>
+    <string name="hintConNumber">+94818974231</string>
+    <string name="hintPassword">........</string>
+    <string name="tvRegNo">Registration Number</string>
+    <string name="tvOrganizationName">Organization Name</string>
+    <string name="tvName">Name</string>
+    <string name="tvDesignation">Designation</string>
+    <string name="tvEmergency">Emergency Details</string>
+    <string name="ethintpassword">Enter new password</string>
+    <string name="tvPostVacancies">Post Vacancies</string>
+    <string name="tvVacancyType">Vacancy type</string>
+    <string name="tvRbtn1">Donor</string>
+    <string name="tvRbtn2">Driver</string>
+    <string name="tvVacLoc">Location</string>
+    <string name="tvVehicleType">Vahicle Type</string>
+    <string-array name="spinVehType">
+        <item>Select.....</item>
+        <item>Bicycle</item>
+        <item>Three wheeler</item>
+        <item>Lorry</item>
+        <item>Van</item>
+    </string-array>
+    <string name="tvAvail">Availability</string>
+    <string name="tvuplaoImage">Upload Image</string>
+    <string name="tvDescription">Description</string>
+    <string name="tvtopic11">Share your review with us</string>
+    <string name="btnAddReview">Add Review</string>
+    <string name="title_activity_page10_display_vacancies">Page10DisplayVacancies</string>
+    <string name="TabDonor">Donor</string>
+    <string name="TabDriver">Driver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="RegFormVeh">Vehicle Details</string>
+    <string name="tvVehNum">Vehicle Reg. No.</string>
+    <string name="tvColour">Vahicle Colour</string>
+    <string name="RegFormEm">Emergency Contacts</string>
+    <string name="RegFormNeeder">Organization Details</string>
+    <string name="tvtopic12">All Posts</string>
+
+    //IT20622800
+    <string name="etfeedback">Send Us Your Feedback!</string>
+    <string name="etfeedback2">Any feedback or suggestion would be appreciated.</string>
+    <string name="etName">Name</string>
+    <string name="etEmail">Email</string>
+    <string name="etMsg">Message</string>
+    <string name="btnSend">Send</string>
+    <string name="etMssg">"Message: "</string>
+    <string name="et_Name">"Name: "</string>
+    <string name="etname">"Name: "</string>
+    <string name="btnFeedback" />
+    <string name="etDelimsg">Your order has been successfully placed!</string>
+    <string name="etDelivered">Your Order Delivered!!!</string>
+    <string name="btn_Feedback">Feedback</string>
+
+
+</resources>
